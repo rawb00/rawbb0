@@ -4,7 +4,7 @@ Hi 👋 My name is AayNong
 Student
 -------
 
-Now i'm learning all programing language about full-stack developper
+learning programing language about full-stack developper
 
 * 🌍  I'm based in Bangkok,Thialand
 * ✉️  You can contact me at [aaynongprogram@gmail.com](mailto:aaynongprogram@gmail.com)
