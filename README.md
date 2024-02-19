@@ -6,7 +6,7 @@ Student
 
 learning programing language
 
-* 🌍  I'm based in Bangkok,Thialand
+* ❓  I'm based in somewhere
 * ✉️  You can contact me at [aaynongprogram@gmail.com](mailto:aaynongprogram@gmail.com)
 
 ### Skills
