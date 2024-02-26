@@ -1,7 +1,6 @@
 AayNong
 ========================
 
-Student
 -------
 
 learning programing language
