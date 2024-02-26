@@ -1,7 +1,6 @@
 AayNong
 ========================
 
--------
 
 learning programing language
 
