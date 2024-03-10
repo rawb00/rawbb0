@@ -7,7 +7,7 @@ learning programing language
 * ❓  I'm based in somewhere
 * ✉️  You can contact me at [aaynongprogram@gmail.com](mailto:aaynongprogram@gmail.com)
 
-### Skills
+### My Skills
 
 
 <p align="left">
