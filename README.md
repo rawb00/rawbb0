@@ -5,7 +5,7 @@ rawbb
 learning programing language
 
 * ❓  I'm based in somewhere
-* ✉️  You can contact me at [rawbb@gmail.com](mailto:aaynongprogram@gmail.com)
+* ✉️  You can contact me at [rawbb01@gmail.com](mailto:rawbb01@gmail.com)
 
 ### My Skills
 
