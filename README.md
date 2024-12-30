@@ -1,11 +1,11 @@
-rawb
+tain
 ========================
 
 
 learning programing language
 
 * ❓  I'm based in somewhere
-* ✉️  You can contact me at [rawbmail@gmail.com](mailto:rawbmail@gmail.com)
+* ✉️  You can contact me at [tainnmail@gmail.com](mailto:tainnmail@gmail.com)
 
 ### My Skills
 
